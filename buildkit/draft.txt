@@ -1,0 +1,24 @@
+// efficient manner 
+// repeatable manner
+
+// automatic garbage collection
+
+// extendable front-end format
+
+// concurrent dependency resolution
+
+// efficient instruction caching
+
+// build cache import/export
+
+// nested build job invocations
+
+// distributable worker
+
+// multiple output formats
+
+// pluggable architecture
+
+// execution without root privileges
+
+

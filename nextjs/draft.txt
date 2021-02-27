@@ -1,0 +1,31 @@
+// best developer experience
+
+// hybrid static server rendering
+
+// typescript support
+
+// smart bundling
+
+// route pre-fetching
+
+// no config
+
+
+
+// image optimization
+
+// internationalization
+
+// analytics
+
+// zero config
+
+// hybrid SSG SSR
+
+// incremental static generation
+
+// typescript support
+
+// built-in css support
+
+// code splitting | bundling

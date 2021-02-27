@@ -1,0 +1,16 @@
+simple    software
+reliable  software
+efficient software
+
+productive programmer
+
+most out-of multi-core 
+
+quick compilation
+
+powerful run-time reflexion
+
+fast             language
+statically-typed language
+compiled         language
+

@@ -1,0 +1,17 @@
+// painless 
+
+// simple views for each state
+
+// efficiently update
+
+// declarative views
+
+
+
+// encapsulated components
+
+// complex uis
+
+// easiy pass rich data
+
+

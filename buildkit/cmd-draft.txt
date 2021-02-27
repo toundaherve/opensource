@@ -1,0 +1,34 @@
+package buildkit
+
+
+
+// runc / crun required
+
+// containerd required
+
+
+// two work backends suported
+
+// containerd worker
+
+// more backends
+
+// systemd socket activation
+
+// gRPC api
+
+
+
+
+// intermadiate format
+
+// marshalled as Protogul
+
+// concurrently executable
+
+// efficiently cacheable
+
+// vendor neutral
+
+// high-level languages
+

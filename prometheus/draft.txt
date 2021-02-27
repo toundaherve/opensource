@@ -1,0 +1,25 @@
+// monitoring system
+
+// configured target
+
+// given intervals
+
+// specified condition observed
+
+
+
+// multi-dimentional data model
+
+// powerful , flexible query language
+
+// single server nodes are autonomous
+
+// pull model http
+
+// pushing time series intermediary gateway
+
+// target discovered via service discovery
+
+// graphing and dashboarding support
+
+// hierarchical and horizontal federation

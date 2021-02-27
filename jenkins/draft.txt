@@ -1,0 +1,41 @@
+// continuous integration | continuous delivery
+
+    // extensible automation server
+
+    // simple CI server 
+
+    // continuous delivery hub
+
+
+// easy installation 
+
+    // self-contained java-based program
+
+    // ready ton run out-of the box
+
+
+// easy configuration
+
+    // easily setup 
+
+    // configured via web-interface
+
+
+// plugins
+
+    // hundreds of plugins
+
+    // every tool the continuous integration & delivery toolchain
+
+
+// extensible
+
+    // plugin architecture
+
+    // infinite possibilities
+
+
+// distributed
+
+    // across multiple machine
+

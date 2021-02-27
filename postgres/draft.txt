@@ -1,0 +1,31 @@
+// powerfull object-relational database system
+
+// support sql standard
+
+// modern features
+
+    // complex queries
+
+    // foreign key
+
+    // triggers
+
+    // updatable views
+
+    // transactional integrity
+
+    // multiversion concurrecncy control
+
+
+// extended many ways
+
+    // new datatype
+
+    // new functions
+
+    // new aggregate functions
+
+    // new index methods
+
+    // new procedural languages
+

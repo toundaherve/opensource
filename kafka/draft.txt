@@ -1,0 +1,82 @@
+// digital equivalent of central nervous system
+
+// technological foundation 'always on' 
+
+// user more software
+
+
+
+// capturing data in real-time
+
+// later retrieval 
+
+// manipulating, processing, reacting, restrospectively
+
+// destination technologies
+
+// continuous flow
+
+// right place | right time
+
+
+
+
+
+
+
+
+
+// variety of use cases
+
+// financial transactions real-time 
+
+// monitor cars, trucks, fleets, shipments real-time 
+
+// continously capture | analyze sensor data
+
+// immediately react to customer interactions | orders
+
+// timely treatment in emergencies
+
+// different divisions of company
+
+// data platforms event driven-architecture | microservices
+
+
+
+
+// distributed system
+
+// high-performance TCP
+
+// bare-metal hardware | virtual machines | containers - on premise | cloud
+
+
+// as cluster
+
+    // one | more servers
+
+    // multiple datacenters
+
+    // storage layer - broker
+
+    // continuously import - export data as event streams - kafka connect 
+
+    // mission critical use cases
+
+    // highly scalable 
+
+    // fault tolorant
+
+    // continuous operations
+
+    
+    // distributed applications - microservices
+
+    // fault-tolerant manner
+
+    // 
+
+
+// 
+

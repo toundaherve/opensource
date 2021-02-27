@@ -1,0 +1,29 @@
+// container-based system
+
+// container build tools
+
+// container registry
+
+// orchestration tool 
+
+// runtime
+
+
+
+// strong principles
+
+// modular
+
+// flexible
+
+// well defined apis
+
+// batteries swappable
+
+// fully featured container system
+
+// different implementation
+
+// secure defaults
+
+// 

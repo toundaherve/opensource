@@ -1,0 +1,46 @@
+// quickly deliver software
+
+    // shipping code
+    // testing code
+    // deploying code
+
+// same way manage apps | infracstruture
+
+
+
+// loosely isolated environment
+
+// simultanouesly many containers
+
+// given host
+
+// currently installed
+
+// easily share containers
+
+// same container 
+
+// orchestrated service
+
+// local data center | cloud provider | hybrid
+
+
+
+// standardized environment
+
+// continuous integration
+// continuous delivery
+
+// test environment | production environment
+
+// automated test | manuel test
+
+
+
+
+
+
+
+
+
+

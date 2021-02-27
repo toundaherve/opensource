@@ -1,0 +1,3 @@
+package dockerfile
+
+// fatal error

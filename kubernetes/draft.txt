@@ -1,0 +1,20 @@
+// containerized app
+
+// logical units
+
+// easy management
+// easy discovery
+
+// automated container deployment 
+// automated container scaling
+// automated container management
+
+// ops team
+
+// on-premise
+// hybrid cloud
+// public cloud
+
+// declarative configuration
+// declarative automation
+

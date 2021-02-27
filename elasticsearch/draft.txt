@@ -1,0 +1,101 @@
+// distributed 
+
+// restful search
+
+// analytics engine
+
+
+
+// growing number of use cases
+
+
+
+// centrally store
+
+// lighting fast search
+
+// fine-tune relevancy
+
+// powerful analytics
+
+
+
+// many types of searches
+
+    // structured
+
+    // unstructured
+
+    // geo
+
+    // metric
+
+
+
+// 10 best documents
+
+// a billion long lines
+
+// explore trends & patterns
+
+
+
+// rapid results
+
+    // answers instantly
+
+    // more ground
+
+
+
+// powerful design
+
+    // inverted indices | finite state for full-text quering
+
+    // BKD trees -> numeric | geo data
+
+    // column store - > analytics
+
+
+
+// all-inclusive
+
+    // everything indexed
+
+    // ludicrously awesome speeds
+
+
+
+// prototype -> production seamlessly
+
+// same way single node | 300-node cluster
+
+// scales horizontally
+
+// kajillions events per second
+
+// indices | queries distributed accross cluster
+
+
+
+// use cases
+
+    // fast | scalable logging
+
+    // monitor | visualize system metrics
+
+    // application performance
+
+    // availability issues
+
+    // great search experience 
+
+    // search accross documents | geo data
+
+    // centralized search of corporate
+
+    // location data real-time
+
+    // interactive investigation | automated threat detection
+
+    // threats
